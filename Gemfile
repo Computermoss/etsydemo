@@ -10,6 +10,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
+gem "paperclip-dropbox", ">= 1.1.7"
+gem "figaro"
 
 
 group :production do
